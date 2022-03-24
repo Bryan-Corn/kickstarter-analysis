@@ -1,2 +1,2 @@
-# kickstarter-analysis
-Bootcamp analysis for kickstarter data
+# An Analysis of Kickstarter Campaigns
+## Bootcamp analysis for kickstarter data
