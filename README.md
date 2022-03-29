@@ -10,5 +10,6 @@
 ## Results
 ### Success rates have been much higher for campaigns initiated in Summer months and considerably lower for campaigns started in Fall and Winter months.
 ### Higher success rates have been found in campaigns with moderate goals with high average and median pledge amounts.
+!(https://github.com/Bryan-Corn/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 ### Data points were limited and the number of backers was not factored into this analysis.
 ### Additional visualizations and investigation with respect for each cmpaign over time would be useful to show how initial success predicts overal success or failure of a campaign. Do successfull kickstarters start off strong, pick up momentum, or remain steady during the time they are active? Backer count comparisons between failed and successful campaigns could also provide some insight for Louise; should she focus on big donors or reach out to a wider group of donors?
