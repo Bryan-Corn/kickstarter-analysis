@@ -3,7 +3,7 @@
 ### Analizing kickstarter project data for trends to increase Louise's play's chances for success
 
 ## Success rates for all kickstarter projects and specifically plays in the US were the focus when comparing goal and pledge amounts as well as month of of launch
-### Launch month success and failure rates were compared, regarles of year, to investigae seasonal effects on kickstarter outcomes.
+### Launch month success and failure rates were compared, regardless of year, to investigae seasonal effects on kickstarter outcomes.
 ### Median and mean goal and pledge amounts were compared after identifying outliers in the data. Consideration was also given for the length of time campaigns were active.
 ### Success rates with respect to goal amounts were not linear or perfectly correlated but a trend was identified
 
