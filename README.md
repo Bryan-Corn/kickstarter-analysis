@@ -9,6 +9,7 @@
 ---
 ## Results
 ### Success rates have been much higher for campaigns initiated in Summer months and considerably lower for campaigns started in Fall and Winter months.
+![image](https://github.com/Bryan-Corn/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 ### Higher success rates have been found in campaigns with moderate goals with high average and median pledge amounts.
 ![image](https://github.com/Bryan-Corn/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 ### Data points were limited and the number of backers was not factored into this analysis.
