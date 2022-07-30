@@ -1,3 +1,4 @@
+![img](https://github.com/Bryan-Corn/kickstarter-analysis/blob/main/Resources/kick.png)
 # An Analysis of Kickstarter Campaigns
 ## Bootcamp analysis for kickstarter data
 ### Analizing kickstarter project data for trends to increase Louise's play's chances for success
